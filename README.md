@@ -38,3 +38,6 @@
 | Total IP | Netmask |
 | -------- | ------- |
 | 2618     | /20     |
+
+* Buat tree pembagian subnet
+
